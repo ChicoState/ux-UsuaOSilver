@@ -1,6 +1,6 @@
 # Trapped by a "Free" Car Consultation
 
-![JustAnswer home screen]()
+![JustAnswer home screen](assets/IMG_8755.png)
 
 ## My Goal
 
@@ -12,25 +12,25 @@ I downloaded JustAnswer hoping for quick guidance from a mechanic.
 
 The app opened with "Expert answers at your fingertips" and two buttons: "Sign up" (large orange) and "Log in" (outlined). The **affordance** (visual cue showing something is clickable) was clear. I tapped "Sign up."
 
-![Expert profiles screen]()
+![Expert profiles screen](assets/IMG_8756.png)
 
 Next screen showed verified expert profiles with "Chris - Master Mechanic" with 81,000+ satisfied customers, plus doctors and veterinarians with verification checkmarks. Below it is "Connect with Experts in 150+ categories" with a large "Ask a question" button. I tapped it.
 
-![Question input screen]()
+![Question input screen](assets/IMG_8757.png)
 
 The screen said "Get personalized help from real Experts" with a text box: "Describe your question in detail..." I typed "Car engine warning light."
 
-![Question typed]()
+![Question typed](assets/IMG_8758.png)
 
 After tapping "Ask now," the next screen requested: "Enter your email to continue. Use this email to log in later." No pricing mentioned.
 
-![Email entry screen]()
+![Email entry screen](assets/IMG_8759.png)
 
 I entered my email and tapped "Continue." Then everything changed.
 
 ## The Outcome
 
-![Payment screen]()
+![Payment screen](assets/IMG_8760.png)
 
 Suddenly, "Sign up now for a one-time $1 join fee and $28/month. Cancel anytime."
 
